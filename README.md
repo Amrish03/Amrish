@@ -1,2 +1,2 @@
-# Amrish
-Multiple Regression
+# Amrish Kumar
+
